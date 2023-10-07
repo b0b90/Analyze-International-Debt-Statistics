@@ -1,26 +1,37 @@
-# Analyze-International-Debt-Statistics
-Analyze International Debt Statistics
+International Debt Statistics Analysis
 
 Project Description
-It's not that we humans only take debts to manage our necessities. A country may also take debt to manage its economy. For example, infrastructure spending is one costly ingredient required for a country's citizens to lead comfortable lives. The World Bank is the organization that provides debt to countries.
 
-In this project, I have analyzed international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories. I will be going to find answers to questions like:
+This GitHub repository contains an analysis of international debt statistics collected by The World Bank. It explores the debt owed by developing countries across various categories. 
 
-What is the total amount of debt that is owed by the countries listed in the dataset?
-Which country owns the maximum amount of debt and what does that amount look like?
-What is the average amount of debt owed by countries across different debt indicators?
+The analysis aims to answer questions such as:
 
-The data used in this project is provided by The World Bank. 
-It contains both national and regional debt statistics for several countries across the globe as recorded from 1970 to 2015.
+- What is the total amount of debt owed by the countries listed in the dataset?
+- Which country owns the maximum amount of debt, and what is that amount?
+- What is the average amount of debt owed by countries across different debt indicators?
+
+The dataset used in this project is provided by The World Bank and includes national and regional debt statistics for multiple countries, recorded from 1970 to 2015.
 
 Project Tasks
 
-1. The World Bank's international debt data connection
-2. Finding the number of distinct countries
-3. Finding out the distinct debt indicators
-4. Totaling the amount of debt owed by the countries
-5. Country with the highest debt
-6. Average amount of debt across indicators
-7. The highest amount of principal repayments
-8. The most common debt indicator
-9. Other viable debt issues and conclusion
+The analysis is divided into the following tasks:
+
+- The World Bank's international debt data connection: Establishing a connection to The World Bank's international debt dataset.
+
+- Finding the number of distinct countries: Identifying and counting the distinct countries included in the dataset.
+
+- Finding out the distinct debt indicators: Identifying the various debt indicators used in the dataset.
+
+- Totaling the amount of debt owed by the countries: Calculating the total amount of debt owed by all countries in the dataset.
+
+- Country with the highest debt: Determining the country that owns the highest amount of debt and the corresponding amount.
+
+- Average amount of debt across indicators: Calculating the average amount of debt owed by countries across different debt indicators.
+
+- The highest amount of principal repayments: Identifying the highest amount of principal repayments made by any country.
+
+- The most common debt indicator: Identifying the most frequently used debt indicator in the dataset.
+
+- Other viable debt issues and conclusion: Addressing any other relevant debt-related issues discovered during the analysis and summarizing the findings.
+
+Feel free to explore the code and analysis in this repository to gain insights into international debt statistics.
